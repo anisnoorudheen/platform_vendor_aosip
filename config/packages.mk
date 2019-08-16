@@ -23,3 +23,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-full \
     librsjni
+    
+    
+#SubsKey
+PRODUCT_PACKAGES += \
+    SubstratumSignature
